@@ -8,7 +8,7 @@ using System.Text;
 namespace JclunaOficial
 {
     /// <summary>
-    /// Implementación del algoritmo Blowfish con BCrypt
+    /// Funciones para proteger contraseñas con Blowfish 
     /// </summary>
     public class UBlowfish
     {
